@@ -20,6 +20,10 @@ function createWindow() {
         mainWindow = null;
     });
 
+    getStdout();
+}
+
+async function getStdout() {
     const proc = spawn('python', ['printman.py']);
     proc.stdout.on('data', (data) => {
         console.log(data.toString())
