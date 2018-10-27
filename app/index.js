@@ -1,6 +1,7 @@
 const { app, Menu, BrowserWindow } = require('electron');
 const path = require('path');
 const url = require('url');
+const spawn = require('child_process').spawn
 
 let mainWindow;
 
@@ -17,6 +18,11 @@ function createWindow() {
 
     mainWindow.on('closed', () => {
         mainWindow = null;
+    });
+
+    const proc = spawn('python', ['printman.py']);
+    proc.stdout.on('data', (data) => {
+        console.log(data.toString())
     });
 }
 
