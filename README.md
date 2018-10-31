@@ -1,11 +1,11 @@
 # HyPre(ハイプレ)
-https://youtu.be/WoR2oniQ444
+https://www.youtube.com/watch?v=WoR2oniQ444&feature=youtu.be
 ## 製品概要
 ### FinTech(Finger Tech)
 
 ### 背景（製品開発のきっかけ、課題等）
 - かっこいいプレゼンをしたい。
-- そもそも、プレゼン中にキーボードを打つのはダサい。
+- そもそも、プレゼン中にキーボードを打つのはダサい。  
  -> 指パッチンなどの音声でスライドを操作できたらかっこいい！
 
 ### 製品説明（具体的な製品の説明）
