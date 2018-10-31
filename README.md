@@ -1,5 +1,5 @@
 # HyPre(ハイプレ)
-https://www.youtube.com/watch?v=WoR2oniQ444&feature=youtu.be
+[![HyPre](https://github.com/jphacks/FK_1802/blob/master/app/images/icon_black.png)](https://www.youtube.com/watch?v=WoR2oniQ444&feature=youtu.be)
 ## 製品概要
 ### FinTech(Finger Tech)
 
